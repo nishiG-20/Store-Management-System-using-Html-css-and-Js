@@ -1,0 +1,52 @@
+/* Change the color on hover */
+.hv-red:hover {
+    background-color: red;
+}
+
+/* 
+Background color Black and Text Color white */
+.bg-blackAndWht {
+    background-color: black;
+    color: white;
+}
+
+/* 
+Table heading color purple and White */
+.purpAndWht {
+    background-color: purple;
+    color: white;
+}
+
+/* color for Table Body  */
+.light-green {
+    background-color: greenyellow;
+}
+
+.pink {
+    background-color: pink;
+}
+
+/* table Border*/
+.bd {
+    /* border:1px solid gainsboro; */
+    border-collapse: collapse;
+}
+
+
+/* gap between coloumn */
+.gap {
+    column-count: 2;
+    column-gap: 0px;
+}
+
+.padd2 {
+    padding: 12px;
+}
+
+.pa {
+    padding: 6px;
+}
+
+.yellow{
+    background-color:yellowgreen;
+}
